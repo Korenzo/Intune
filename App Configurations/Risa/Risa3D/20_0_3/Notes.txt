@@ -1,0 +1,17 @@
+Will not install as system. Must be set to user in Intune
+
+
+INTUNE INSTALL COMMAND
+
+Install_3D_2003.exe /exenoui /quiet
+
+
+INTUNE UNINSTALL COMMAND
+
+MsiExec.exe /X{74b7efe3-4ae4-47ec-9824-167ddf479dad} /qn
+
+
+INTUNE DETECTION
+
+Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{74b7efe3-4ae4-47ec-9824-167ddf479dad}
+
