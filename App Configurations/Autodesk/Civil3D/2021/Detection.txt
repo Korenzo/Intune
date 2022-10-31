@@ -1,0 +1,1 @@
+Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{28B89EEF-4100-0000-0102-CF3F3A09B77D}
